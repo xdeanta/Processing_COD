@@ -59,7 +59,7 @@ public class Formas extends PApplet {
 
         stroke( 142, 98, 98 );
         fill(255, 137, 214);
-        ellipse(mouseY,250,200,150);
+        ellipse(mouseX,250,200,150);
 
         stroke(255);
         fill(112, 0, 164);
